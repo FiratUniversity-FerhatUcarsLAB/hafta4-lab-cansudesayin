@@ -5,8 +5,7 @@
  * Aciklama: Gorev 2 - Geometrik Hesaplayıcı
  * 
  * Bu program, kullanıcıdan dairenin yarıçapını alıp:
- * Dairenin alanını, çevresini ve çapını, kürenin hacmini ve yüzey alanını hesaplayarak Sonuçları virgülden sonra iki basamak (%.2f) olacak şekilde düzenli bir biçimde ekrana yazdırır. 
- * 
+ * Dairenin alanını, çevresini ve çapını, kürenin hacmini ve yüzey alanını hesaplayarak Sonuçları virgülden sonra iki basamak (%.2f) olacak şekilde düzenli bir biçimde ekrana yazdırır.  
  */
 
 import java.util.Scanner;
